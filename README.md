@@ -1,6 +1,6 @@
 # Inventory Management Dashboard
 
-[Power BI Inventory Management Dashboard](https://www.youtube.com/watch?v=hGOxNYpXkLU)
+[YT - Power BI Inventory Management Dashboard](https://www.youtube.com/watch?v=hGOxNYpXkLU)
 
 In today's dynamic business environment, efficient inventory management is a fundamental pillar for profitability and competitiveness. Implementing an interactive dashboard in Power BI for warehouse inventory management analysis is not only an operational improvement, but a strategic investment that will generate significant returns in terms of efficiency, cost reduction and resource optimization.
 
